@@ -1,5 +1,12 @@
+body {
+    background-image: url(images/yeraoftheox);
+}
+
+
+
 /* body {
     background-color: red;
+    background-image: url(images/yeraoftheox);
 }
 
 #time, #date, #week-day, h2 {
